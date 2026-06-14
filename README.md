@@ -6,7 +6,7 @@
 
 Analyzed retail transaction and customer data using Python and Power BI to uncover revenue patterns, customer behavior, and retention gaps. Despite stable monthly revenue (170K-180K), the business shows signs of stagnation with **91% inactive customers and 87% high-value customers disengaged**. The analysis highlights a critical retention problem and declining customer acquisition, and provides targeted strategies to improve engagement, retention, and long-term growth.
 
-👉 **Live Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjcwNjUyZjItYjAxMy00ZGVhLWE1MjctNjgzN2E1NjUzNzViIiwidCI6ImE1ZmI3ZjgwLTIwNTEtNGE5Ny05YjEyLTZhYjIyMmQyYmQ1NSJ9)
+# 👉 **Live Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjcwNjUyZjItYjAxMy00ZGVhLWE1MjctNjgzN2E1NjUzNzViIiwidCI6ImE1ZmI3ZjgwLTIwNTEtNGE5Ny05YjEyLTZhYjIyMmQyYmQ1NSJ9)
 
 ---
 
